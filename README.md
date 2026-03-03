@@ -1,1 +1,1 @@
-# Tugas-PWeb-Day2
+# Latihan-PWeb-Day2
